@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage("Hi Sajal!--chrome.runtime.sendMessage()");
